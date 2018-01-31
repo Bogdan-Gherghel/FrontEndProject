@@ -1,11 +1,6 @@
 body {
     padding-top: 70px;
 }
-/*---------------------------------------------Fonts */
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Roboto', sans-serif;
-}
 
 /*---------------------------------------------Navbar */
 .navbar {
@@ -13,7 +8,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-brand {
-    font-family: 'Supermercado One', cursive;
+    font-family: 'Bungee Inline', cursive;
     font-size: 1.9rem;
 }
 
@@ -32,29 +27,93 @@ h1, h2, h3, h4, h5, h6 {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;    
-    height: 90vh;
+    height: 89vh;
     align-items: center;
     position: relative;
+}
 
+.opaque-overlay {
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(34, 33, 33, 0.3);
 }
 
 .display-1 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Monoton', cursive;
     font-weight: 300;
-    font-size: 7vmin;
+    font-size: 10vmin;
     color: rgb(255, 255, 255);
-    padding: 12vmin 0 2vmin;
-     
-    
+    padding: 12vmin 0 2vmin;  
 }
 
 .lead {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
-    font-size: 2.5vmin;
+    font-size: 3vmin;
     color: rgb(255, 255, 255);
     padding-bottom: 3vmin;
 }
 
 
+/*---------------------------------------------News*/
+
+.bg-color-news {
+    background-color: beige;
+}
+
+.news-title {
+    font-family: 'Bungee Inline', cursive;
+    font-size: 8vmin;
+}
+
+.news-item {
+    font-family: 'Londrina Solid', cursive; 
+    font-size: 5vmin;
+}
+
+.date {
+    font-weight: 500;
+    color: rgb(1, 1, 255);
+}
+
+.carousel-text {
+    font-weight: 400;
+    font-size: 2.8vmin;
+} 
+
+.bg-carousel {
+    background-color: rgb(189, 187, 185);
+}
+
+#newsletter {
+    background-color: #172349;
+    border-right: 3px solid #c3b232;
+    border-bottom: 3px solid#c3b232;
+    margin: 0 0 20px 0;
+    padding: 0 0 0 0;
+}
+
+#newsletter p {
+    margin: 0;
+    padding-top: 0;
+    padding-bottom: 14px;
+    color: #fafae6;
+}
+
+#newsletter h2 {
+    color: #fafae6;
+    text-shadow: none;
+    margin-top: 0px;
+    border-bottom: 4px solid #fafae6;
+}
+
+.emailAddress {
+    border-radius: 0%;
+    display: inline-block;
+    width: auto;  
+}
+
+/*---------------------------------------------News*/
 
