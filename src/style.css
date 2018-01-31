@@ -1,0 +1,60 @@
+body {
+    padding-top: 70px;
+}
+/*---------------------------------------------Fonts */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+}
+
+/*---------------------------------------------Navbar */
+.navbar {
+
+}
+
+.navbar-brand {
+    font-family: 'Supermercado One', cursive;
+    font-size: 1.9rem;
+}
+
+.nav-item {
+    margin-left: 2rem;
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+
+
+/*---------------------------------------------Header */
+
+.hero {
+    background: url(assets/images/hero.jpg) no-repeat   ;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;    
+    height: 90vh;
+    align-items: center;
+    position: relative;
+
+}
+
+.display-1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 7vmin;
+    color: rgb(255, 255, 255);
+    padding: 12vmin 0 2vmin;
+     
+    
+}
+
+.lead {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 2.5vmin;
+    color: rgb(255, 255, 255);
+    padding-bottom: 3vmin;
+}
+
+
+
