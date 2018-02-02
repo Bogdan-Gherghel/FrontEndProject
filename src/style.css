@@ -1,5 +1,5 @@
 body {
-    padding-top: 70px;
+    padding-top: 70px; /*the height of my navbar*/
 }
 
 /*---------------------------------------------Navbar */
@@ -16,6 +16,9 @@ body {
     margin-left: 2rem;
     text-transform: uppercase;
     font-size: 1rem;
+}
+.btn {
+    font-size: 1.6rem;
 }
 
 
@@ -80,7 +83,7 @@ body {
 
 .carousel-text {
     font-weight: 400;
-    font-size: 2.8vmin;
+    font-size: 1.2rem;
 } 
 
 .bg-carousel {
@@ -136,13 +139,33 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;   
     background-position: center;
-    height: 65vh;    
+    min-height: 55vh;    
 }
 
-.info-text {
+.the-band-text {
     font-size: 1.2rem;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
 }
 
 .card-block {
     background-color: beige;
+}
+
+/*---------------------------------------------Our Music*/
+
+.ourmusic-title {
+    font-family: 'Bungee Inline', cursive;
+    font-size: 8vmin;
+    padding: 25px  ;
+}
+
+.ourmusic-text {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.ourmusic-btn {
+    font-size: 1.6rem;
+    margin-top: 20px;
 }
