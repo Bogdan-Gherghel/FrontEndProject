@@ -62,6 +62,10 @@ body {
 
 /*---------------------------------------------News*/
 
+.carousel-control-prev-icon {
+    left: 0;
+}
+
 .bg-color-news {
     background-color: beige;
 }
@@ -81,9 +85,14 @@ body {
     color: rgb(1, 1, 255);
 }
 
+.paradate {
+    color: rgb(253, 0, 0);
+}
+
 .carousel-text {
     font-weight: 400;
     font-size: 1.2rem;
+    padding-bottom: 40px;
 } 
 
 .bg-carousel {
@@ -121,6 +130,11 @@ body {
 
 /*---------------------------------------------The Band*/
 
+.row-cards {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
 .the-band-title {
     font-family: 'Bungee Inline', cursive;
     font-size: 8vmin;
@@ -153,6 +167,10 @@ body {
 }
 
 /*---------------------------------------------Our Music*/
+
+.bg-ourmusic {
+    background-color: beige; 
+}
 
 .ourmusic-title {
     font-family: 'Bungee Inline', cursive;
