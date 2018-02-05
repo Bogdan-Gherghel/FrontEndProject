@@ -24,11 +24,11 @@ It's an application designed for The Monkees fans.
 
  ### Some of the tech i used in this project includes:
 - [Bootstrap 4](http://getbootstrap.com/)
-    - We use **Bootstrap** to give my project a simple, responsive layout.
+    - I used **Bootstrap** to give my project a simple, responsive layout.
 
 - [Google Fonts](https://fonts.google.com/)
-    - We use **Google Fonts** to give my project a nice font look. 
+    - I used **Google Fonts** to give my project a nice font look. 
 
 - [Hover.css](http://ianlunn.github.io/Hover/)
-    - We use **Hover.css** to give my project a nice "touch" when hovering over.
+    - I used **Hover.css** to give my project a nice "touch" when hovering over.
 
