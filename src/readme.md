@@ -4,19 +4,19 @@
 
 ### What is this app for?
 
-It's an application designed for The Monkees fans.
+- It's an application designed for The Monkees fans.
 
 ## Features
 
--News about the band
--Option to sign up for the newsletter
--Info where fans can purchase tickets or other assets the band is selling like music,comic books etc.
--Music page where fans can listen for their favorite songs
--Contact page where they can get in touch with the band
+- News about the band
+- Option to sign up for the newsletter
+- Info where fans can purchase tickets or other assets the band is selling like music,comic books etc.
+- Music page where fans can listen for their favorite songs
+- Contact page where they can get in touch with the band
 
 ## Testing
 
--The app was tested using Google Chrome Dev Tools and ensured to work at different media queries
+- The app was tested using Google Chrome Dev Tools and ensured to work at different media queries
 
 ## Technologies used
 
