@@ -16,7 +16,8 @@
 
 ## Testing
 
-- The app was tested using Google Chrome Dev Tools and ensured to work at different media queries
+- The app was tested using Google Chrome Dev Tools 
+- The application was tested on different devices to ensure proper responsivness to different resolutions
 
 ## Technologies used
 
