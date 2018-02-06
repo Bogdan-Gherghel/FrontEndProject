@@ -67,12 +67,12 @@
 
 .news-title {
     font-family: 'Bungee Inline', cursive;
-    font-size: 6vmin;
+    font-size: 7vmin;
 }
 
 .news-item {
     font-family: 'Londrina Solid', cursive; 
-    font-size: 4vmin;
+    font-size: 6vmin;
 }
 
 .date {
@@ -146,7 +146,7 @@
 
 .the-band-title {
     font-family: 'Bungee Inline', cursive;
-    font-size: 6vmin;
+    font-size: 7vmin;
     padding: 25px  ;
 }
 
@@ -187,7 +187,7 @@
 
 .ourmusic-title {
     font-family: 'Bungee Inline', cursive;
-    font-size: 6vmin;
+    font-size: 7vmin;
     padding: 25px  ;
 }
 
@@ -208,7 +208,7 @@
 
 .contact-title {
     font-family: 'Bungee Inline', cursive;
-    font-size: 6vmin;
+    font-size: 7vmin;
     padding: 25px  ;
 }
 
